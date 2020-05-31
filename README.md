@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## A tabbar component developed using React Higher Order Component
 
+A clone of JD.com mobile version tabbar
+
 Supports routing to specific pages using react-router-dom
 
 Icon of current page will be in red color
