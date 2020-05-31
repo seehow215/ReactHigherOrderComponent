@@ -8,8 +8,7 @@ Icon of current page will be in red color
 
 ### `Demo`
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+![alt text](https://github.com/seehow215/ReactHigherOrderComponent/blob/master/home.PNG?raw=true)
+![alt text](https://github.com/seehow215/ReactHigherOrderComponent/blob/master/category.PNG?raw=true)
+![alt text](https://github.com/seehow215/ReactHigherOrderComponent/blob/master/car.PNG?raw=true)
+![alt text](https://github.com/seehow215/ReactHigherOrderComponent/blob/master/user.PNG?raw=true)
