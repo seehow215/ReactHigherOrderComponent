@@ -2,6 +2,11 @@
   text-align: center;
 }
 
-.a-container{
+a:hover, a:visited, a:link, a:active{
+  text-decoration: none;
+  color: #333333;
+}
 
+.bg{
+  width: 100%;
 }

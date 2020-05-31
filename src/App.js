@@ -1,15 +1,13 @@
 import React from 'react';
-import A from './components/A'
-import B from './components/B'
-import C from './components/C'
+import Tabbar from './components/tabbar'
+import RouterMap from './router'
+import './static/iconfont.css'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
-      <A />
-      <B />
-      <C />
+      <RouterMap/>
     </div>
   );
 }
